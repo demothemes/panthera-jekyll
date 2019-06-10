@@ -31,10 +31,6 @@ menu:
 
 # Social links
 social:
-  - name: email
-    link: mailto:christian.ezeani@gmail.com
-    icon: fas fa-envelope
-
   - name: linkedin
     link: https://www.linkedin.com/christianezeani
     icon: fab fa-linkedin
