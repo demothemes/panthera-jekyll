@@ -30,7 +30,7 @@ menu:
     icon: ""
 
 # Social links
-social:
+social_icons:
   - name: linkedin
     link: https://www.linkedin.com/christianezeani
     icon: fab fa-linkedin
